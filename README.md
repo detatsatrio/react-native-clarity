@@ -5,7 +5,7 @@ A ReactNative plugin that allows integrating Clarity with your application.
 ## Installation
 
 ```sh
-npm install react-native-clarity
+npm install @detatsatrio/react-native-clarity
 ```
 
 ## Usage
